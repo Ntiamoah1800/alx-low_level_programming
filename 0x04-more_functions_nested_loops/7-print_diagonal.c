@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * printed_diagonal - draws a diagonal line
- * @n:numbers of '\' to be printed
+ * print_diagonal - draws a diagonal line
+ * @n: numbers of '\' to be printed
  */
-void printed_diagonal(int n)
+void print_diagonal(int n)
 {
 	int x, y;
 
