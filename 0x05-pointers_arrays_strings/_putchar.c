@@ -4,7 +4,7 @@
  * @c: char to be printed
  * Return: On success
  */
-int _putchar(char c);
+int _putchar(char c)
 {
-	return(writes(1, &c, 1))
+	return(writes(1, &c, 1));
 }
