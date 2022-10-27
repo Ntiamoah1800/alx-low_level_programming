@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * *_strcat - concatenates @src to @dest
- * @src: the source string to append to @dest
- * @dest: the destiation string to be concatenated upon
+ * _strcat - concatenates @src to @dest
+ * @dest: the source string to append to @dest
+ * @src: the destiation string to be concatenated upon
  * Return: pointer to the resulting string
  */
 
